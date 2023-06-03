@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta charset="utf-8" />
+    <title>SARN - Swiss Artistic Research Network</title>
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover"
+    />
+    <meta name="referrer" content="origin-when-cross-origin" />
+    <link rel="stylesheet" href="css/styles.css" />
+  </head>
+
+  <body class="foo" id="body">
+    <div id="container">
+      <header id="main-header">
+        <div class="top-bar">
+          <address>
+            <a href="/">SARN – Swiss Artistic Research Network,</a>
+            <span
+              ><a href="mailto:info@sarn.ch">E-Mail</a>,
+              <a href="https://www.facebook.com/sarnactivities/" target="_blank"
+                >Facebook</a
+              >,
+              <a
+                href="https://www.instagram.com/sarn_switzerland/"
+                target="_blank"
+                >Instagram</a
+              >, <a href="/imprint">Imprint</a></span
+            >
+          </address>
+        </div>
+        <div class="marquees-wrapper">
+          <div class="marquee">
+            <div class="blue inside">
+              <p>
+                <a href="https://sarn.ch/events/sarn-table-0523"
+                  >11.05.23, 16h in Bern: SARN Table &quot;Work in
+                  Progress&quot; with Art &amp; Industry and NewsLibrary</a
+                >
+              </p>
+              <p>
+                <a href="https://sarn.ch/events/sarn-table-0523"
+                  >11.05.23, 16h in Bern: SARN Table &quot;Work in
+                  Progress&quot; with Art &amp; Industry and NewsLibrary</a
+                >
+              </p>
+              <p>
+                <a href="https://sarn.ch/events/sarn-table-0523"
+                  >11.05.23, 16h in Bern: SARN Table &quot;Work in
+                  Progress&quot; with Art &amp; Industry and NewsLibrary</a
+                >
+              </p>
+              <p>
+                <a href="https://sarn.ch/events/sarn-table-0523"
+                  >11.05.23, 16h in Bern: SARN Table &quot;Work in
+                  Progress&quot; with Art &amp; Industry and NewsLibrary</a
+                >
+              </p>
+            </div>
+          </div>
+          <div class="marquee">
+            <div class="green inside">
+              <p>
+                <a
+                  href="https://sarn.ch/publications/microreview-paralyzing-present"
+                  >Read the newest #microreview: The Paralyzing Present of
+                  Collapse by Lamia Abukhadra</a
+                >
+              </p>
+              <p>
+                <a
+                  href="https://sarn.ch/publications/microreview-paralyzing-present"
+                  >Read the newest #microreview: The Paralyzing Present of
+                  Collapse by Lamia Abukhadra</a
+                >
+              </p>
+              <p>
+                <a
+                  href="https://sarn.ch/publications/microreview-paralyzing-present"
+                  >Read the newest #microreview: The Paralyzing Present of
+                  Collapse by Lamia Abukhadra</a
+                >
+              </p>
+              <p>
+                <a
+                  href="https://sarn.ch/publications/microreview-paralyzing-present"
+                  >Read the newest #microreview: The Paralyzing Present of
+                  Collapse by Lamia Abukhadra</a
+                >
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <a href="/">
+          <figure class="logo lower" id="logo-main">
+            <img src="/images/SARN_Logo_full_black-2.svg" alt="" />
+          </figure>
+        </a>
+        <nav id="main-nav">
+          <div id="nav-toggle" onclick="openNav()">
+            <span></span>
+            <span></span>
+            <span></span>
+          </div>
+          <ul>
+            <li class="active">
+              <a href="/about"><span>About</span></a>
+            </li>
+            <li>
+              <a href="/research"><span>Research</span></a>
+            </li>
+            <li>
+              <a href="/events"><span>Events</span></a>
+            </li>
+            <li>
+              <a href="/publications"><span>Publications</span></a>
+            </li>
+            <li>
+              <a href="/association"><span>Association</span></a>
+            </li>
+            <li>
+              <a href="/newsletter"><span>Newsletter</span></a>
+            </li>
+          </ul>
+        </nav>
+      </header>
+      <main>
+        <article class="about">
+          <div class="wrapper">
+            <div class="text-box">
+              <p>
+                The Swiss Artistic Research Network SARN represents artists and
+                researchers from the seven Swiss Universities of the Arts as
+                well as independent artists and researchers engaged in artistic
+                research. It promotes the significance of artistic research in
+                the arts, other fields of academia and wider societal contexts
+                in Switzerland and internationally. SARN seeks to enrich
+                conditions and contexts for artistic researchers in Switzerland
+                through open exchange, work group activities, publications,
+                workshops and symposia. SARN facilitates debate and dialogue
+                about issues concerning artistic research between artistic
+                research communities, institutions of higher education,
+                foundations and public and private competence centers. SARN was
+                established 2011 by the Swiss Universities of Art and Design
+                Conference (KHKD)
+              </p>
+              <p>SARN pursues the following objectives:</p>
+              <ul>
+                <li>
+                  Increasing the number of artistic research representatives in
+                  governmental and academic bodies, funding agencies, selection
+                  committees, etc.
+                </li>
+                <li>
+                  Working towards adapting the review structures of funding
+                  agencies.
+                </li>
+                <li>
+                  Improving the academic standing of artistic research at Swiss
+                  institutions of higher education.
+                </li>
+                <li>
+                  Promoting the right of Swiss Universities of the Arts to award
+                  doctorates/PhD’s to artists.
+                </li>
+                <li>
+                  Providing a competent point of contact for the public,
+                  artists, political bodies, and/or academia regarding the
+                  subject of artistic research.<br />
+                </li>
+                <li>
+                  Increasing the visibility of artistic research, both
+                  nationally and internationally.
+                </li>
+              </ul>
+              <p>
+                SARN supports its members by contributing to artistic research
+                in the following ways:
+              </p>
+              <ul>
+                <li>
+                  Informing members about projects, publications and positions
+                  in the field of artistic research.
+                </li>
+                <li>
+                  Promoting exchange between members and other stakeholders
+                  through conferences, workshops and working groups.
+                </li>
+                <li>
+                  Building and maintaining national and international networks.
+                </li>
+                <li>Publishing activities.</li>
+              </ul>
+              <p>SARN partners with the following networks:</p>
+              <ul>
+                <li>
+                  <a href="https://societyforartisticresearch.org/"
+                    >Society for Artistic Research</a
+                  >
+                </li>
+              </ul>
+              <p>
+                The association is constituted by its members and supported by
+                the following institutions:
+              </p>
+            </div>
+            <div class="institutions">
+              <figure>
+                <img
+                  src="https://sarn.ch/images/logos/FHNW_HGK_10mm3.jpg"
+                  alt=""
+                />
+              </figure>
+              <figure>
+                <img
+                  src="https://sarn.ch/images/logos/02_hkb_logo.png"
+                  alt=""
+                />
+              </figure>
+              <figure>
+                <img
+                  src="https://sarn.ch/images/logos/03_collegium_helveticum_logo.png"
+                  alt=""
+                />
+              </figure>
+              <figure>
+                <img
+                  src="https://sarn.ch/images/logos/edh_logo_blanc.svg"
+                  alt=""
+                />
+              </figure>
+              <figure>
+                <img
+                  src="https://sarn.ch/images/logos/06_head_logo.png"
+                  alt=""
+                />
+              </figure>
+              <figure>
+                <img
+                  src="https://sarn.ch/images/logos/07_ecal_logo.png"
+                  alt=""
+                />
+              </figure>
+              <figure>
+                <img
+                  src="https://sarn.ch/images/logos/04_hes_so_logo.png"
+                  alt=""
+                />
+              </figure>
+              <figure>
+                <img
+                  src="https://sarn.ch/images/logos/08_hslu_logo.svg"
+                  alt=""
+                />
+              </figure>
+              <figure>
+                <img
+                  src="https://sarn.ch/images/logos/09_zhdk_logo.png"
+                  alt=""
+                />
+              </figure>
+            </div>
+          </div>
+        </article>
+      </main>
+    </div>
+    <script src="/js/main.js"></script>
+  </body>
+</html>
