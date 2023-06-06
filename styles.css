@@ -151,11 +151,7 @@ header#main-header {
   header#main-header address ul li {
     display: inline-block; }
   header#main-header figure.logo {
-    margin: calc($margin-s + 1.5em) 0 6px;
-    margin-top: 42px; }
-    @media (max-width: 768px) {
-      header#main-header figure.logo.lower {
-        margin-top: 33px; } }
+    max-width: 100%; }
   header#main-header nav#main-nav {
     border-bottom: 1px solid;
     border-top: solid 1px;
@@ -920,3 +916,7 @@ body {
     .publication--entry section.main-content a,
     .research--entry section.main-content a {
       color: #141414; }
+
+.logotitle {
+  font-size: 50pt;
+}
